@@ -1,0 +1,1 @@
+<div class="footer"><p class="footer">Deze pagina is gemaakt door Jamy</p></div>
